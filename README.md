@@ -1,6 +1,6 @@
-# Hello little fellow 
+# Hello little fellow 👋🏼
 
-## This is a simple calculator project
+## This is a simple calculator project 🤷🏻‍♂️
 
 ## Available Scripts
 
